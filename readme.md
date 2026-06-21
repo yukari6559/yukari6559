@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yukari6559&label=Profile views&color=0e75b6&style=flat" alt="yukari6559" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yukari6559" alt="yukari6559" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
