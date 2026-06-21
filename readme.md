@@ -1,8 +1,5 @@
 # Hi 👋, I'm yukari6559
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yukari6559&label=Profile views&color=0e75b6&style=flat" alt="yukari6559" /> </p>
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://github.com/yukari6559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="yukari6559" height="30" width="40" /></a>
